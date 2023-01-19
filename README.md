@@ -33,6 +33,4 @@
 
 ## **Some Github Stats** 📈 
 
-![Bogdan GitHub stats](https://github-readme-stats.vercel.app/api?username=lesmnif&show_icons=true&theme=transparent)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lesmnif)
