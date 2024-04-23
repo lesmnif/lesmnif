@@ -6,7 +6,7 @@
 
 ## **Hi there 👋**
 
-- 🔭 I’m currently working on the browser extension for [cal.com](https://cal.com/) as an open source contributor
+- 🔗 I am currently working as a Software Engineer at [BlockTac](https://www.blocktac.com/), utilizing blockchain technology to enhance product traceability and prevent fraud.
 - 💬 You can get in touch with me by mail at [bogdan@fotescu.com](mailto:bogdan@fotescu.com) or [LinkedIn](https://www.linkedin.com/in/bogdan-fotescu/)
 - 👨‍💻 Read more about me and what I'm up to at [bogdan.codes](https://www.bogdan.codes/)
 - ⚡ I love reading and playing piano. It's always great to connect with other programmers and music enthusiasts, so feel free to reach out and say hi, recommend a book or a song!
